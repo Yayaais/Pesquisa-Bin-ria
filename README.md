@@ -1,2 +1,2 @@
-# Pesquisa-Bin-ria
+# Pesquisa-Binaria
 Atividade em python
